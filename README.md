@@ -91,3 +91,8 @@ The Arduino `.ino` file uses:
 - Arduino Documentation: https://www.arduino.cc/
 - WHO: Adherence to long-term therapies
 - IoT Healthcare Journals (2022–2023)
+
+- 👩‍💻 Author
+Razieh Moradi Graduate Student, McMaster University 📫 moradr1@mcmaster.ca
+
+
